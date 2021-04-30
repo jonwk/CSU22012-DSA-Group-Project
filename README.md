@@ -122,12 +122,12 @@ registration email you send to me)
    - Group members list and summary of contributions of each member in the team
 
 ## Team
-|                                                                   |      Name      | Course | Student ID |      Email      |
-|-------------------------------------------------------------------|----------------|--------|------------|-----------------|
-| ![](https://cdn.discordapp.com/emojis/830053705650274344.png?v=1) |   Honglin Li   |   CSB  |  19315272  |   lih4@tcd.ie   |
-| ![](https://cdn.discordapp.com/emojis/830067028076396575.png?v=1) |  John Kommala  |   ICS  |  19303445  | kommalaj@tcd.ie |
-| ![](https://cdn.discordapp.com/emojis/830149484725403710.png?v=1) | Hiroki Kumagai |   CSB  |  19312623  | kumagaih@tcd.ie |
-| ![](https://cdn.discordapp.com/emojis/830069978510131241.png?v=1) |  Masanari Doi  |   CSB  |  19313167  |   doim@tcd.ie   |
+|      Name      | Course | Student ID |      Email      |
+|----------------|--------|------------|-----------------|
+|   Honglin Li   |   CSB  |  19315272  |   lih4@tcd.ie   |
+|  John Kommala  |   ICS  |  19303445  | kommalaj@tcd.ie |
+| Hiroki Kumagai |   CSB  |  19312623  | kumagaih@tcd.ie |
+|  Masanari Doi  |   CSB  |  19313167  |   doim@tcd.ie   |
  
 
  
