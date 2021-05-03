@@ -694,7 +694,7 @@ public class part4 extends JFrame {
             buttonPartC.addActionListener(new Switcher(cardD));
 
             BufferedImage myPicture = ImageIO.read(
-                    new File("/Users/johnwesley/Desktop/Algos /Sem2/ADS-MOCK-TRIAL/inputs/translinklogo1 (1).png"));
+                    new File("Demo Pictures and Videos/TranslinkLogo.png"));
             JLabel picLabel = new JLabel(new ImageIcon(myPicture));
             Dimension d2 = new Dimension(820, 250);
             picLabel.setPreferredSize(d2);
