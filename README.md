@@ -122,12 +122,12 @@ registration email you send to me)
    - Group members list and summary of contributions of each member in the team
 
 ## Team
-|      Name      | Course | Student ID |      Email      |
-|----------------|--------|------------|-----------------|
-|   Honglin Li   |   CSB  |  19315272  |   lih4@tcd.ie   |
-|  John Kommala  |   ICS  |  19303445  | kommalaj@tcd.ie |
-| Hiroki Kumagai |   CSB  |  19312623  | kumagaih@tcd.ie |
-|  Masanari Doi  |   CSB  |  19313167  |   doim@tcd.ie   |
+|      Name      | Course | Student ID |      Email      | Github Username |
+|----------------|--------|------------|-----------------|-----------------|
+|   Li Honglin   |   CSB  |  19315272  |   lih4@tcd.ie   |     [DesLeeHL](https://github.com/DesLeeHL)    |
+|  John Kommala  |   ICS  |  19303445  | kommalaj@tcd.ie |   [JohnWesleyK](https://github.com/JohnWesleyK)   |
+| Kumagai Hiroki |   CSB  |  19312623  | kumagaih@tcd.ie |    [kumachan96](https://github.com/kumachan96)   |
+|  Masanari Doi  |   CSB  |  19313167  |   doim@tcd.ie   |   [dodonga2211](https://github.com/dodonga2211)   |
  
 
  
