@@ -30,6 +30,7 @@ https://developer.translink.ca/ enabling access to data about Vancouver public t
 million entries
 
 
+
 ## Part - 1 Shortest Path Algorithm ( Djikstra's Algorithm )
 Shortest Paths between 2 bus stops (as input by the user), returning the list of stops en route as well as the associated “cost”.
 
@@ -65,7 +66,6 @@ sb, eb from start of the names to the end of the names of the stops when reading
 
 
 
-
 ## Part - 3 Sorting Algorithm and Maps
 Searching for all trips with a given arrival time, returning full details of all trips matching the
 criteria (zero, one or more), sorted by trip id
@@ -83,7 +83,6 @@ clearly invalid. Maximum time allowed is 23:59:59.
 
 
 
-
 ## Part - 4 UI and Error Handling
 Provide front interface enabling selection between the above features or an option to exit
 the programme, and enabling required user input. It does not matter if this is command-line
@@ -93,7 +92,6 @@ You are required to provide error checking and show appropriate messages in the 
 inputs – eg bus stop doesn’t exist, wrong format for time for bus stop (eg letters instead of
 numbers), no route possible etc. 
 ### Part 1 Error Handling
-### Demo
 <p align="center">
   <img src="https://github.com/JohnWesleyK/CSU22012-DSA-Group-Project/blob/main/Demo%20Pictures%20and%20Videos/part1error.png" />
 </p>
@@ -117,7 +115,24 @@ numbers), no route possible etc.
 </p>
 
 
+## Requirements
+   - Git
+   -  Java
+### Java Version
+This was built on the following version. Recommend having this specific version for best results.
+```
+java 15 2020-09-15
+Java(TM) SE Runtime Environment (build 15+36-1562)
+Java HotSpot(TM) 64-Bit Server VM (build 15+36-1562, mixed mode, sharing)
+```
 
+
+## Running the Code
+```bash
+ git clone https://github.com/JohnWesleyK/CSU22012-DSA-Group-Project
+ cd CSU22012-DSA-Group-Project
+ javac part4.java && java part4
+```
 
 
 ## Team
