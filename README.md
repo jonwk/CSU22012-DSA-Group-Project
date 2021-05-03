@@ -1,5 +1,9 @@
 # CSU22012: Data Structures and Algorithms Group Project
-![](https://github.com/JohnWesleyK/CSU22012-DSA-Group-Project/blob/main/Demo%20Pictures%20and%20Videos/TranslinkLogo.png)
+
+<p align="center">
+  <img src="https://github.com/JohnWesleyK/CSU22012-DSA-Group-Project/blob/main/Demo%20Pictures%20and%20Videos/TranslinkLogo.png" />
+</p>
+
 
 ## Summary/highlights:
 * Implementation of a bus management system based on Vancouver bus system data
@@ -12,7 +16,10 @@
   
 ## Assignment Code Specification – 4 parts:
 
-![](https://github.com/JohnWesleyK/CSU22012-DSA-Group-Project/blob/main/Demo%20Pictures%20and%20Videos/mainscreen.png)
+<p align="center">
+  <img src="https://github.com/JohnWesleyK/CSU22012-DSA-Group-Project/blob/main/Demo%20Pictures%20and%20Videos/mainscreen.png" />
+</p>
+
 
 You are given the following input files (obtained by using TransLink open API
 https://developer.translink.ca/ enabling access to data about Vancouver public transport system)
@@ -36,7 +43,9 @@ cost is the minimum transfer time divided by 100.
 
 
 ### Demo
-![](https://github.com/JohnWesleyK/CSU22012-DSA-Group-Project/blob/main/Demo%20Pictures%20and%20Videos/part1demo.gif)
+<p align="center">
+  <img src="https://github.com/JohnWesleyK/CSU22012-DSA-Group-Project/blob/main/Demo%20Pictures%20and%20Videos/part1demo.gif" />
+</p>
 
 
 
@@ -50,7 +59,10 @@ sb, eb from start of the names to the end of the names of the stops when reading
 
 
 ### Demo
-![](https://github.com/JohnWesleyK/CSU22012-DSA-Group-Project/blob/main/Demo%20Pictures%20and%20Videos/part2%20demo.gif)
+<p align="center">
+  <img src="https://github.com/JohnWesleyK/CSU22012-DSA-Group-Project/blob/main/Demo%20Pictures%20and%20Videos/part2%20demo.gif" />
+</p>
+
 
 
 
@@ -65,7 +77,10 @@ clearly invalid. Maximum time allowed is 23:59:59.
 
 
 ### Demo
-![](https://github.com/JohnWesleyK/CSU22012-DSA-Group-Project/blob/main/Demo%20Pictures%20and%20Videos/part3%20demo.gif)
+<p align="center">
+  <img src="https://github.com/JohnWesleyK/CSU22012-DSA-Group-Project/blob/main/Demo%20Pictures%20and%20Videos/part3%20demo.gif" />
+</p>
+
 
 
 
@@ -78,16 +93,29 @@ You are required to provide error checking and show appropriate messages in the 
 inputs – eg bus stop doesn’t exist, wrong format for time for bus stop (eg letters instead of
 numbers), no route possible etc. 
 ### Part 1 Error Handling
-![](https://github.com/JohnWesleyK/CSU22012-DSA-Group-Project/blob/main/Demo%20Pictures%20and%20Videos/part1error.png)
+### Demo
+<p align="center">
+  <img src="https://github.com/JohnWesleyK/CSU22012-DSA-Group-Project/blob/main/Demo%20Pictures%20and%20Videos/part1error.png" />
+</p>
+
 
 ### Part 2 Error Handling
-![](https://github.com/JohnWesleyK/CSU22012-DSA-Group-Project/blob/main/Demo%20Pictures%20and%20Videos/part2error.png)
+<p align="center">
+  <img src="https://github.com/JohnWesleyK/CSU22012-DSA-Group-Project/blob/main/Demo%20Pictures%20and%20Videos/part2error.png" />
+</p>
+
 
 ### Part 3 Error Handling
-![](https://github.com/JohnWesleyK/CSU22012-DSA-Group-Project/blob/main/Demo%20Pictures%20and%20Videos/part3error.png)
+<p align="center">
+  <img src="https://github.com/JohnWesleyK/CSU22012-DSA-Group-Project/blob/main/Demo%20Pictures%20and%20Videos/part3error.png" />
+</p>
+
 
 ### Part 4 Option to exit
-![](https://github.com/JohnWesleyK/CSU22012-DSA-Group-Project/blob/main/Demo%20Pictures%20and%20Videos/part4close.png)
+<p align="center">
+  <img src="https://github.com/JohnWesleyK/CSU22012-DSA-Group-Project/blob/main/Demo%20Pictures%20and%20Videos/part4close.png" />
+</p>
+
 
 
 
